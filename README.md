@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm looking for help with making contributions to bigger softwares and solving there bugs
+I'm looking for help in making contributions to bigger softwares and solving there bugs
 
 <!--
 **Nirali0029/Nirali0029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
