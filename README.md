@@ -18,4 +18,4 @@
 <h2>Language Stats</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirali0029&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-</p>
+</p>>
