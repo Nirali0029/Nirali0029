@@ -2,7 +2,7 @@
 <!--
 **Nirali0029/Nirali0029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://github-readme-stats.vercel.app/api?username=Nirali0029
+(https://github-readme-stats.vercel.app/api?username=Nirali0029)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
