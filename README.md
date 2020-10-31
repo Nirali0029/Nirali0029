@@ -1,8 +1,7 @@
 
 <h2>LANGUAGES AND TOOLS</h2>
 <p align="center">
-
-
+   
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="75">
    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="75">
     <img src="https://media3.giphy.com/media/Jn9P369jYkvng6nEzx/giphy.webp" width="75">
