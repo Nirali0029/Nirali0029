@@ -5,8 +5,7 @@
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width="75">
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="75">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="75">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="75">
-   <img src="https://www.google.com/search?q=vscode+logo&client=ubuntu&hs=vLj&channel=fs&sxsrf=ALeKk01uRGWaLABs0mZld1CYL4gRT5zzVg:1604584947362&tbm=isch&source=iu&ictx=1&fir=SdoU48ZQbZ339M%252CdXFSHQBndEJSSM%252C_&vet=1&usg=AI4_-kQfvwRgIq6mRxXzW1VGCWKRzIOFMQ&sa=X&ved=2ahUKEwjDoLLeyOvsAhX7wzgGHZioDJUQ9QF6BAgKECM#imgrc=SdoU48ZQbZ339M" width="75">
+     
    
 </p>
 
