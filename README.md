@@ -3,7 +3,8 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="75">
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="75">
-    <img src="https://media3.giphy.com/media/Jn9P369jYkvng6nEzx/giphy.webp" width="75">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="75">
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="75">
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="75">
    <img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp" width="75">
 </p>
